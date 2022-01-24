@@ -24,6 +24,7 @@ public class Categoria {
 	@Size(min = 5, max = 100)
 	private String categoria;
 
+	// Gerando os Geters & Seters
 	public long getId() {
 		return id;
 	}
