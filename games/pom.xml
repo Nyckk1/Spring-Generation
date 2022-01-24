@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.2</version>
+		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.generation</groupId>
-	<artifactId>BlogPessoal</artifactId>
+	<groupId>com.lojagames</groupId>
+	<artifactId>games</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BlogPessoal</name>
-	<description>Blog pessoal</description>
+	<name>games</name>
+	<description>atividade loja de games</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
